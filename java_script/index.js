@@ -8,3 +8,4 @@ function checkNumber(a,b){
     }
 }
 checkNumber(4,3)
+
